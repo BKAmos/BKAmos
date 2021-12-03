@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning more python, machine learning, and how to process multiple types of biological data.
 - 💞️ I’m looking to collaborate on computational biology. I would be particulary interested in collabroating on single cell omics data.
 - 📫 How to reach me - bkamos3@g.uky.edu
+- Any of the code that is used in here is not garunteed to be optimal so please keep that in mind. I am a formally trained biotechnologist and educated myself in regards to programming. 
 
 <!---
 BKAmos/BKAmos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
