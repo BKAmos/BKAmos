@@ -2,7 +2,6 @@
 - 👀 I’m interested in computational biology. In these repositories I plan to host all of the code that I have written so that others can use and edit it to advance their computational biology practice. I hope that these tools are beneficial to you and if you use them please cite the repository.
 - 🌱 I’m currently learning more python, machine learning, and how to process multiple types of biological data.
 - 💞️ I’m looking to collaborate on computational biology.
-- 📫 How to reach me - bkamos3@g.uky.edu
 - Any of the code that is used in here is not garunteed to be optimal so please keep that in mind. I am a formally trained biotechnologist and educated myself with the help of others through project based learning in regards to programming. 
 
 <!---
